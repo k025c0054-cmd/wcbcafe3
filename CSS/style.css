@@ -306,3 +306,7 @@ img{
 .side-menu a:hover{
     color: #0bd;
 }
+/*menu*/
+.cover-menu{
+    background-image: url(../images/images/cover-menu-s.webp);
+}
